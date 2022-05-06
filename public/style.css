@@ -29,6 +29,9 @@ body{
 .red{
     background-color: #EB5757;
 }
+.purple{
+    background-color: #9B51E0;
+}
 
 .card .card_header .tittle,.card .card_header .id{
     display: flex;
